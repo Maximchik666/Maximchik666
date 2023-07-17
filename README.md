@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maximchik666
-- 👀 I’m interested in codinп
+- 👀 I’m interested in coding
 - 📫 You can reach me via e-mail: maximchik666@gmail.com
 
 <!---
