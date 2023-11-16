@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maximchik666
--  I'm an iOS Developer
+-   I am an iOS Developer
 - 👀 I’m interested in coding
 - 📫 You can reach me via e-mail: maximchik666@gmail.com
 
